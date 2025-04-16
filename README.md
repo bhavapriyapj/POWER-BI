@@ -1,4 +1,4 @@
-PROJECT 2
+PROJECT 1
 HR Analytics Dashboard
 
 Overview
